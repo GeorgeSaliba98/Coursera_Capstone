@@ -5,6 +5,7 @@ This template will be used to complete the *Applied Data Science Final Project C
 
 # Importing Basic Libraries
 import pandas as pd
+
 import numpy as np
 
 # Simple Code to Test Validity
